@@ -1,0 +1,4 @@
+original_data = "user=guest&auth=false"
+original_signature = "3e5b6dd9c1e5a4da95078ec735cf3f45d954eb5f48434772cb9868ed811a53f5"
+hash_algorithm = "SHA-256"
+key_length_range = (16, 32)
