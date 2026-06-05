@@ -1,0 +1,3 @@
+# CorpNet Internal Portal Assessment
+# Access the portal on http://web10.ctf/
+# Reconstruct the proxy desynchronization to smuggle access to /admin/flag
